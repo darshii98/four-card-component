@@ -12,8 +12,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/darshii98/article-preview-component/)
-- Live Site URL: [Github Pages](https://darshii98.github.io/article-preview-component/)
+- Solution URL: [Github Repo](https://github.com/darshii98/four-card-component/)
+- Live Site URL: [Github Pages](https://darshii98.github.io/four-card-component/)
 
 ### Built with
 
